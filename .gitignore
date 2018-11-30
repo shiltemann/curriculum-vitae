@@ -1,0 +1,12 @@
+*.swp
+
+# latex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+
