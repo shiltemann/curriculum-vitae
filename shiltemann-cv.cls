@@ -8,6 +8,7 @@
 \ProcessOptions\relax
 \LoadClass{article}
 
+\RequirePackage{fontawesome}
 
 %%%%%%%%%%
 % Colors %
