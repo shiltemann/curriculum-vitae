@@ -206,6 +206,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 \DeclareFieldFormat[inproceedings]{title}{#1\par}
 \DeclareFieldFormat[misc]{title}{#1\par}
 \DeclareFieldFormat[report]{title}{#1\par}
+\DeclareNameAlias{sortname}{first-last}
 
 \DeclareBibliographyDriver{article}{%
   \printfield{title}%
