@@ -1,5 +1,5 @@
 all:
-	latexmk -pdf -interaction=nonstopmode -xelatex cv.tex
+	latexmk -pdf -xelatex cv.tex
 
 clean:
 	latexmk -c

@@ -60,8 +60,8 @@
 % \setmathfont{XITS Math}
 
 %%% modified by Karol Kozioł for ShareLaTex use
-\RequirePackage[quiet]{fontspec}
-\RequirePackage[math-style=TeX]{unicode-math}
+\RequirePackage{fontspec}
+%\RequirePackage[math-style=TeX]{unicode-math}
 
 \newfontfamily\bodyfont
 [BoldFont=texgyreheros-bold.otf,
@@ -80,7 +80,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 ]
 {texgyreheros-regular.otf}
 
-\setmathfont{texgyreheros-regular.otf}
+%\setmathfont{texgyreheros-regular.otf}
 %%%
 
 %%%%%%%%%%
